@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/joshhhbailey/Desktop/opencv-tut/.venv/bin/python3",
+    "python.linting.pylintArgs": ["--generate-members"]
+}
